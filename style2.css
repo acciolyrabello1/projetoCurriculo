@@ -1,0 +1,23 @@
+.class1 {
+  color: #dd2c00;
+  background-color: #ffcc80;
+  font-family: Tahoma;
+  font-size: 35px;
+  padding: 10px;
+}
+.class2 {
+  color: #ef9a9a;
+  background-color: #8b0000;
+  font-family: Tahoma;
+  font-size: 25px;
+  padding: 10px;
+}
+.class3 {
+  font-family: Tahoma;
+  line-height: 45px;
+  font-size: 15px;
+}
+.class4 {
+  font-family: Tahoma;
+  font-size: 15px;
+}
