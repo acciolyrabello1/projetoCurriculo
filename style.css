@@ -1,0 +1,37 @@
+.class1 {
+  color: #b71c1c;
+  font-size: 60px;
+  text-align: justify;
+  font-family: -apple-system;
+  background-color: #fafafa;
+  margin-top: 10px;
+  border: 160px;
+  border-style: groove;
+  border-color: #3e2723;
+  border-width: 100px;
+}
+.class2 {
+  color: #efebe9;
+  font-size: 60px;
+  text-align: right;
+  background-color: #880e4f;
+  font-family: -apple-system;
+  margin-top: 100px;
+  border: 120px;
+  border-style: groove;
+  border-color: #212121;
+  border-width: 100px;
+}
+.class3 {
+  color: #263238;
+  font-size: 60px;
+  text-align: center;
+  background-color: #fafafa;
+  font-family: Roboto;
+  margin: 60px;
+  border: 120px;
+  border-radius: 200px;
+  border-style: groove;
+  border-color: #bf360c;
+  border-width: 100px;
+}
